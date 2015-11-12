@@ -13,5 +13,5 @@ layout: home
 
 
 
-For more info, please check out documentation site (https://sharedhealth.atlassian.net/wiki/display/docs)
+For more info, please check out documentation site [WIKI](https://sharedhealth.atlassian.net/wiki/display/docs)
 You can also track current development at our [JIRA](https://sharedhealth.atlassian.net/projects/BSHR/summary) 

@@ -1,2 +1,2 @@
-sharedhealth.github.io
+[SharedHealth homepage](http://sharedhealth.github.io)
 ================
